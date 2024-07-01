@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_filled_24"
+        android:title="Ana Menü"
+        app:cnb_backgroundColor="@color/gold"
+        app:cnb_iconColor="@color/black"/>
+
+
+
+
+    <item
+
+        android:id="@+id/Profile"
+        android:icon="@drawable/person"
+        android:title="Profil"
+        app:cnb_backgroundColor="@color/gold"
+        app:cnb_iconColor="@color/black"/>
+
+
+
+</menu>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411600092874",
+    "project_id": "catchgame-3a150",
+    "storage_bucket": "catchgame-3a150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411600092874:android:d779dd2289803795edfe33",
+        "android_client_info": {
+          "package_name": "com.example.d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCAk58Dm6uNRGZ3OSNarrxktrvtZaERNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
